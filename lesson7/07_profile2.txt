@@ -1,0 +1,5 @@
+Average height: 184.88 cm
+Average weight: 83.38 kg
+Blood type A: 4
+Blood type B: 3
+Blood type O: 1

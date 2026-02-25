@@ -1,0 +1,9 @@
+Create a program that reads the contents of the “05_test. txt"
+file. And then it adds an arbitrary string
+(student ID_name), and writes it to the test2.txt. Treat the
+contents of 05_test.txt as a string.
+The 05_test.txt file should be downloaded from Google
+Classroom and pasted into the C language files folder.
+A new text2.txt file must be created in the program.
+The fscan() and fprint() functions are used to read and write
+files.

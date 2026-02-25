@@ -1,0 +1,6 @@
+itoh 97 63 75
+kishida 72 96 95
+satoh 89 100 81
+suzuki 58 88 80
+takashi 84 75 86
+watanabe 90 92 85
